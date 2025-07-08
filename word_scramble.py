@@ -46,7 +46,7 @@ class WordScrambleApp:
         self.original_word = ""
         self.score = 0
         self.round = 0
-        self.total_rounds = 5
+        self.total_rounds = 10
 
         self.login_screen()
 
